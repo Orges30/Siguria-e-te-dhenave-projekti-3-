@@ -140,5 +140,5 @@ Ky mekanizëm ndihmon në:
 
 File-i `requirements.txt` përmban listën e bibliotekave të nevojshme për ekzekutimin e projektit. Në këtë projekt përdoret biblioteka `cryptography`, e cila ofron implementimin e algoritmeve moderne të kriptografisë si RSA, Diffie-Hellman, hashing dhe HKDF.
 
-Ky file lehtëson instalimin e dependencies dhe siguron që projekti të mund të ekzekutohet lehtësisht në çdo kompjuter duke përdorur komandën:
+
 ---
