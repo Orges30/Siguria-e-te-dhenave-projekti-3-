@@ -1,57 +1,7 @@
 {
-  "known_hosts": [
-    {
-      "hostname": "localhost",
-      "port": 2222,
-      "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1234567890abcdef...\n-----END PUBLIC KEY-----",
-      "key_type": "ssh-rsa",
-      "fingerprint": "SHA256:AAAA1111BBBB2222CCCC3333DDDD4444",
-      "first_seen": "2026-05-17T10:00:00Z",
-      "last_verified": "2026-05-17T10:00:00Z",
-      "trusted": true,
-      "description": "Default SSH Server"
-    },
-    {
-      "hostname": "192.168.1.100",
-      "port": 2222,
-      "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9876543210fedcba...\n-----END PUBLIC KEY-----",
-      "key_type": "ssh-rsa",
-      "fingerprint": "SHA256:BBBB2222CCCC3333DDDD4444EEEE5555",
-      "first_seen": "2026-05-17T10:00:00Z",
-      "last_verified": "2026-05-17T10:00:00Z",
-      "trusted": true,
-      "description": "Remote SSH Server"
+    "127.0.0.1": {
+        "server_name": "Local SSH Server",
+        "trusted": true,
+        "fingerprint": "6vYQKPZKtdlZnKgRlNbowWYAw94McZRURAjop6Rha0A="
     }
-  ],
-  "algorithms": {
-    "key_exchange": [
-      "diffie-hellman-group1-sha1",
-      "diffie-hellman-group14-sha1"
-    ],
-    "encryption": [
-      "aes-128-cbc",
-      "aes-256-cbc",
-      "3des-cbc"
-    ],
-    "mac": [
-      "hmac-sha1",
-      "hmac-sha2-256",
-      "hmac-sha2-512"
-    ],
-    "compression": [
-      "none"
-    ]
-  },
-  "security_settings": {
-    "verify_host_key": true,
-    "allow_unknown_hosts": false,
-    "strict_host_key_checking": true,
-    "auto_add_known_hosts": false
-  },
-  "metadata": {
-    "version": "1.0",
-    "format": "SSH Known Hosts Database",
-    "last_updated": "2026-05-17T10:00:00Z",
-    "created": "2026-05-17T10:00:00Z"
-  }
 }

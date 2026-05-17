@@ -1,0 +1,21 @@
+{
+    "generation_timestamp": "2026-05-17T22:05:04.848742",
+    "key_type": "RSA-2048",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClG1FCHuv6oi2t\nj6XCsFblxLb7N0b1eGTIeRYAczFvERY9Au/1pBJTYBnzPQh0OTe9tWebcZ4Nhjr3\nKuqM+f+4dXJ0ZN9e/c/PYhXlEzg8jazMvGCDeBzkGOYzV9TgmDvXthkED8vcA20J\nrqF99P5o0sJ1ULiwfidT77zhEJkiP9BlWcmJEv60mM0DGcZHVOfywfDo0mxTMOCz\nq8nZWHbuR4vBSjSgzEWYWtf9hBn+a6RwNEVjURVF6ELcVhikSSwob12s6fE6r6KS\n0082rWjPi+ohqiLza+w6KrMp1hXF92JqNGCg4snUYr6d5+w0wr75CUOoppwbi7Jv\nS4mddkmLAgMBAAECggEAICYOj3pn5piXnlj/JMajVQAVxRrBVWDI9wQk1ZeYg5Dn\nLKAay1DURKnMw8EZmU/e27Cr6OeZp/aAGsqfey3erjMoQyO1HtD7Gt11d/JjG99W\nS1NO06qarYtvn4W1rLnXxSvu+Qx+XGvKWn1Hcrg2pYCMXr2GCM+3pq9irsxFlRZZ\nw7vhCn0SQqumcTjJ+lHXj2SCuj70A0b1HtBUbSLtsViV3ZTVRZ/M7ipRBzJvuBUj\nKu0Jrnb0k9G8nhFIIsghJkG8R9OWc6pGqUOoxLkBByvzEkAJPFtC3CYHzIChQE2O\nCYHGQzLbm0cc1ZKKuGlx07w8xTve8/7kTNoNqPLMwQKBgQDWB3n+TPh7YOTH+4Ye\nRlDX1AL6LKzc75np2r/fJv630Uh4nCb3qV+1l0qvjqn4hBHOhX6lwX4T/fn8l7g3\nWwivvtxboqGWxEAAyMK5gqOdmNJz1ZHhNIudDoG1nClaQ2tai7p44/f8jOaYxkXi\nfPxppod/Sw/MqI3S/s1e2A4S6wKBgQDFe99q0Er3NIeuq0Vai7jbMbPJj+sYyHUn\nPUdAEUXPKBrLhgTUE+jPW500LbRME80kVaGSACOMsLQmDcWJasntFoYEhDd/FtSI\na9TNTheZ0duKg81mJg+HX6QELtZS+QgpgqPgsnFgNEWjtk3LoS6/JB/RiUoXxa/P\nHWR/plK74QKBgAQ+A7IBro8rfX1lQ+RHuoR8pE53IjoC2ccj2de/ex8Dm+8gETmp\ndscvp4BRUJcnbv7r8HWynyAgUZsrGrCmMkbhfpamY5OMckRRtmJc74dJJyq6mfif\nxQCo7/M8lClA2tjhmiGZSyoLVOrES1BQ7+PcNCVWxIpm8OC0wjdWCvlfAoGBAKsn\nS5+IPKB5D2rrlyT9WU3nipkTOT72ZMqISlsVXTpH2MkxMrgXNTuZe+p//fW9Z5qo\n+GnP4v+JGeitINmTCsSHM8lwSaTExZgiVIFGwB+ZCLvItVhlfinmUwEpEqlAmblY\nNu2D2cz2ILDdTBlCbYBNL6JraSKnO1K2d6ZGIQghAoGBAI63YkuJe1W6Q9dvzYKS\nwwk/8NYTH8pA6edDeGLlURRKHmSQcS9WQiwA/KGXR2Pz6TZt2dZoPQSiecLfrQQt\nSolEvzuecpC8U/P3KNQ1DdyhcdR4v7hNT1+GfK8Ds92tQw5kkKv5F4vMgcczP4Sq\nWWzyk9al/LDp66F+kekrnfec\n-----END PRIVATE KEY-----\n",
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApRtRQh7r+qItrY+lwrBW\n5cS2+zdG9XhkyHkWAHMxbxEWPQLv9aQSU2AZ8z0IdDk3vbVnm3GeDYY69yrqjPn/\nuHVydGTfXv3Pz2IV5RM4PI2szLxgg3gc5BjmM1fU4Jg717YZBA/L3ANtCa6hffT+\naNLCdVC4sH4nU++84RCZIj/QZVnJiRL+tJjNAxnGR1Tn8sHw6NJsUzDgs6vJ2Vh2\n7keLwUo0oMxFmFrX/YQZ/mukcDRFY1EVRehC3FYYpEksKG9drOnxOq+iktNPNq1o\nz4vqIaoi82vsOiqzKdYVxfdiajRgoOLJ1GK+nefsNMK++QlDqKacG4uyb0uJnXZJ\niwIDAQAB\n-----END PUBLIC KEY-----\n",
+    "dh_parameters": "-----BEGIN DH PARAMETERS-----\nMIGHAoGBAPtYMMOtdyTBFcOFfDOajNMOmKJ6epwtsCZTq4d3m0NClB/OgIka7ULs\n57evzgVK0gVAtORrdTcuAIp48/QmFdEU3+MSYqx7UsszPglxgiuEJIKpDt2R2GV7\nLyk1WIz+bQZLGorSrtsHPhfvrTI5UharHTYvOHSpcfRHGeX5Cul/AgEC\n-----END DH PARAMETERS-----\n",
+    "algorithm_support": {
+        "key_exchange": [
+            "diffie-hellman-group1-sha1",
+            "diffie-hellman-group14-sha1"
+        ],
+        "encryption": [
+            "aes-128-cbc",
+            "aes-256-cbc"
+        ],
+        "mac": [
+            "hmac-sha1",
+            "hmac-sha2-256"
+        ]
+    }
+}

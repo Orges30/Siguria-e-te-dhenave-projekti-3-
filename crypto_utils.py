@@ -56,6 +56,11 @@ def public_key_to_bytes(public_key):
         encoding=serialization.Encoding.PEM,
         format=serialization.PublicFormat.SubjectPublicKeyInfo
     )
+def dh_public_key_to_bytes(public_key):
+    return public_key.public_bytes(
+        encoding=serialization.Encoding.PEM,
+        format=serialization.PublicFormat.SubjectPublicKeyInfo
+    )
 
 
 def get_fingerprint(public_key_bytes):
@@ -97,7 +102,7 @@ def verify_signature(public_key, signature, message):
 def create_dh_parameters():
     return dh.generate_parameters(
         generator=2,
-        key_size=2048
+        key_size=1024
     )
 
 

@@ -89,7 +89,7 @@ try:
     dh_parameters = load_dh_parameters(dh_parameters_bytes)
 
     client_dh_private_key, client_dh_public_key = create_dh_keys(dh_parameters)
-    client_dh_public_key_bytes = public_key_to_bytes(client_dh_public_key)
+    client_dh_public_key_bytes = dh_public_key_to_bytes(client_dh_public_key)
 
     client_socket.send(client_dh_public_key_bytes)
 

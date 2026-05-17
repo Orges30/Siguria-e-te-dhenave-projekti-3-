@@ -67,7 +67,7 @@ try:
     dh_parameters = create_dh_parameters()
     server_dh_private_key, server_dh_public_key = create_dh_keys(dh_parameters)
 
-    server_dh_public_key_bytes = public_key_to_bytes(server_dh_public_key)
+    server_dh_public_key_bytes = dh_public_key_to_bytes(server_dh_public_key)
 
     logging.info("Server Diffie-Hellman key created.")
 
